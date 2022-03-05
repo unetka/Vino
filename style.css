@@ -1,0 +1,157 @@
+/* Body */
+
+body{
+    background-color: #520a70;
+}
+
+/* список */
+.hr{
+    text-align: right;
+    margin-left: 75%;
+    width: 300px;    
+    margin-top: -46px;
+    font-size: 15px;
+}
+
+ul.hr {
+    
+   }
+   ul.hr li {
+    display: inline; 
+    margin-right: 25px; 
+   }
+
+a{
+    text-decoration: none;
+    color: bisque;
+    transition: .2s linear;
+}
+
+a:hover{
+    color: aquamarine;
+   
+}
+
+.logo{
+        
+    margin-left: 10px;
+    text-align: center;
+    text-align: justify;
+    color: bisque;
+    display: block;
+}
+
+.top{
+    margin: -8px;
+    margin-top: -25px;
+    width: 101.2%;
+    height: 55px;
+    background-color: black;
+}
+
+.header{
+    width: 87%;
+    margin: 0 auto;
+    height: 1000px;
+    text-align: center;
+    border: 10px ridge #b88fc9;
+    margin-top: 15px;
+    background-color: lightgray;
+    
+}
+
+.vino_a1{
+    text-align: right;
+}
+.a{
+    margin-top: -300px;
+
+}
+
+.img{
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 10px;
+    transition: .5s linear;
+}
+
+.img:hover{
+    height: 350px;
+    transition: .2s linear;
+}
+.img1{
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 10px;
+    transition: .5s linear;
+}
+
+.img1:hover{
+    height: 350px;
+    transition: 1s linear;
+}
+
+.img2{
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 10px;
+    transition: .5s linear;
+}
+
+.img2:hover{
+    height: 350px;
+    transition: 1s linear;
+}
+
+.img3{
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 10px;
+    transition: .5s linear;
+}
+
+.img3:hover{
+    height: 350px;
+    transition: 1s linear;
+}
+
+
+.img5{
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+    transition: .5s linear;
+}
+
+.img5:hover{
+    height: 350px;
+    transition: 1s linear;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,71 @@
+/* Body */
+
+body{
+    background-color: #520a70;
+}
+
+/* список */
+.hr{
+    text-align: right;
+    margin-left: 75%;
+    width: 300px;    
+    margin-top: -46px;
+    font-size: 15px;
+}
+
+ul.hr {
+    
+   }
+   ul.hr li {
+    display: inline; 
+    margin-right: 25px; 
+   }
+
+a{
+    text-decoration: none;
+    color: bisque;
+    transition: .2s linear;
+}
+
+a:hover{
+    color: aquamarine;
+   
+}
+
+.logo{
+        
+    margin-left: 10px;
+    text-align: center;
+    text-align: justify;
+    color: bisque;
+    display: block;
+}
+
+.top{
+    margin: -8px;
+    margin-top: -25px;
+    width: 101.2%;
+    height: 55px;
+    background-color: black;
+}
+
+
+.header{
+    font-size: 50px;
+    width: 95%;
+    margin: 0 auto;
+    height: 1000px;
+    text-align: center;
+    border: 10px ridge #b88fc9;
+    margin-top: 15px;
+    background-color: lightgray;
+    
+}
+
+
+
+
+
+
+
+
